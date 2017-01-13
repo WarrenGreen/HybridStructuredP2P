@@ -15,9 +15,9 @@ the image above.
 
 ####My Progress
 
-I was able to quickly make a simulation of this process by spawning n*m nodes which are threads that spawn two
-more threads. n*m nodes as to represent a grid which would be a basic visualization test. The hope was to make a GUI
+I was able to quickly make a simulation of this process by spawning n\*m nodes which are threads that spawn two
+more threads. n\*m nodes as to represent a grid which would be a basic visualization test. The hope was to make a GUI
 editor so I could draw node clusters that would become clean grids. Where did I end? With a cool simulation and a
-strong memory of why I never try to do Java graphics.
+*strong memory of why I never try to do Java graphics.*
 
 ![hybrid-structured](/imgs/img2.png?raw=true "")
