@@ -1,4 +1,4 @@
-#Hybrid-Structured P2P Simulation
+# Hybrid-Structured P2P Simulation
 
 I have been reading Tennebaum's Distributed Systems book the past few weeks and have been loving it.
 In Chapter 2: Architectures, he covers a P2P design called Hybrid-Structured. While the concept isn't too
@@ -13,7 +13,7 @@ The upper-thread will then rank and keep n connections, specifically the n highe
 through time we see a well structured network form from the initial randomness. We see this demonstrated well in
 the image above.
 
-####My Progress
+#### My Progress
 
 I was able to quickly make a simulation of this process by spawning n\*m nodes which are threads that spawn two
 more threads. n\*m nodes as to represent a grid which would be a basic visualization test. The hope was to make a GUI
